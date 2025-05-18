@@ -1,6 +1,5 @@
 https://heikorichter.name/<br>
 https://hr-tech.shop/<br>
-https://rabatt.pro/
 
 <!---
 hr1232/hr1232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
